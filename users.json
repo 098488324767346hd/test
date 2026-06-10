@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "username": "ZeroLich",
+      "password": "Lich@2025"
+    },
+    {
+      "username": "Security_Ops",
+      "password": "RedTeam#99"
+    },
+    {
+      "username": "root_zero",
+      "password": "kernel_panic"
+    }
+  ]
+}
